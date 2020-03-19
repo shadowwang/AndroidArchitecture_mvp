@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">我的日记</string>
+    <string name="menu_write">写日记</string>
+
+    <string name="dialog_btn_ok">确定</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_error">系统错误!</string>
+    <string name="dialog_goto_edit">去添加日记页!</string>
+
+    <string name="title_add_edit">添加日记</string>
+    <string name="title_edit_edit">编辑日记</string>
+</resources>
